@@ -7,7 +7,7 @@ I want to displayed the requested giphs without refreshing the page, so I made *
 ## How Giphy Search Engine works:
 - This is the UI of main page: 
 ![Main Page UI](assets/interface/mainPage.PNG)
-- The user enters a keyword about what kind of giphs he/she looks for. Then user clicks the button or enter key to see the giphs. The keyword is also displayed with the gipshs on the page as in the UI.
+- The user enters a keyword about what kind of giphs he/she looks for. Then user clicks the button or enter key to see the giphs. The keyword is also displayed with the giphs on the page as in the UI.
 ![Search result](assets/interface/searchResult.PNG)
 - This is the UI of about us page:
 ![About Us Page](assets/interface/aboutUs.PNG)
